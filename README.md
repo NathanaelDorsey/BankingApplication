@@ -1,1 +1,2 @@
 # BankingApplication
+Developed a Java-based banking application that supports different account types (checking and savings) and includes secure account management features. Implemented account creation, transactions, and custom exception handling for secure data processing, ensuring robust error management. This project also involved creating and testing components like a SecureAccountManager to handle sensitive account information securely.
